@@ -1,6 +1,6 @@
 # Project Title
 ```
-Sonar Rock Vs Mine Prediction
+Online-Assignment-Plagiarism-Checker
 
 Author(s): Snehal Wath
 Affiliation:Suryodaya college / RTMNU
